@@ -15,6 +15,13 @@ Perfect for learning Python GUI development or as a small utility app.
 
 ---
 
+## Screenshots
+
+![img1](imagenes/imagenes_de_muestra1.jpeg)
+![img2](imagenes/imagenes_de_muestra2.jpeg)
+![img3](imagenes/imagenes_de_muestra3.jpeg)
+![img4](imagenes/imagenes_de_muestra4.jpeg)
+
 ## 🛠 Technologies
 
 - Python 3.x  
